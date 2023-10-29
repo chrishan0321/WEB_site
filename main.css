@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #62C23A;
+    /* background-image : url('배경３.png');
+    background-repeat : repeat; */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.content {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.content2 {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(60, 255, 101);
+}
+
+.content3 {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(128, 161, 250);
+}
+
+.taskbar {
+    list-style:none;
+    padding-left:0px;
+    display: inline-block;
+    white-space: normal;
+    list-style: none;
+    
+}
+
+.line {
+    float: left;
+    margin-right: 20px;
+}
+
+.taskbar_1 {
+    text-decoration: none;
+}
+a:link {
+    color : black;
+  }
+a:visited {
+    color : black;
+  }
+a:hover {
+    color : black;
+  }
+a:active {
+    color : black;
+  }

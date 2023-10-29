@@ -1,0 +1,27 @@
+<div class="hd_wrap">
+	<div class="header wrap clear">
+		<ul class="gn_wrap clear">
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/s1/s1_1.php">그린컴퍼니</a>
+			</li>
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/s2/s2_1.php">행사 · 섭외</a>
+			</li>
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/s3/s3_1.php">시스템 · 장비 렌탈</a>
+			</li>
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/bbs/board.php?bo_table=s4_1">포트폴리오</a>
+				<ul class="sub sub_3">
+					<li><a href="http://green-com.co.kr/bbs/board.php?bo_table=s4_1"><span>포트폴리오</span></a></li>
+				</ul>
+			</li>
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/bbs/write.php?bo_table=s5_1">견적문의</a>
+			</li>
+			<li class="gnb_after">
+				<a href="http://green-com.co.kr/bbs/board.php?bo_table=s6_1">업체 · 인재 제휴</a>
+			</li>
+		</ul>
+	</div>
+</div>
