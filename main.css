@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'establishRetrosansOTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRetrosansOTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'establishRetrosansOTF';
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -17,13 +28,18 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .content {
     width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(27, 158, 9, 0.7);
+    position: sticky;
+    top: 0;
 }
 
 .content2 {
@@ -32,7 +48,7 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: rgb(60, 255, 101);
+    background-color: rgb(255, 255, 255);
 }
 
 .content3 {
